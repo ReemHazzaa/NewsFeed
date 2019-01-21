@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">News Feed</string>
+
+    <string name="author_lable">Author:</string>
+
+    <string name="no_date_available">No publication date available</string>
+
+    <string name="no_author">Author\'s name is not provided!</string>
+
+    <!-- Error message when there is no internet connectivity -->
+    <string name="no_internet_connection">No internet connection!</string>
+
+    <!-- Error message when there is no news available -->
+    <string name="no_news_available">No news available!</string>
+
+    <string name="details">Details</string>
+</resources>
